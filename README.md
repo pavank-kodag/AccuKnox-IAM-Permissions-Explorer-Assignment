@@ -1,7 +1,7 @@
 # IAM Permissions Explorer - AccuKnox PM Assignment
 
 ## Problem Statement and User Persona
-See [problem-statement.md](problem-statement.md)
+See [Problem Statement and User Persona](problem-statement.md)
 
 ## Wireframes
 [View in Figma](https://www.figma.com/buzz/qxk0rIjeOPfZyilBHJYbcX/Accuknox-IAM-Permissions-Explorer-Assignment?node-id=0-1&t=5AaLT6q9MQwOzCiT-1)
@@ -16,7 +16,7 @@ See [problem-statement.md](problem-statement.md)
 ![Screen 3](screen3_audit_cleanup.png)
 
 ## Feature Write-up
-See [feature-writeup.md](feature-writeup.md)
+See [Feature Writeup](feature-writeup.md)
 
 ## Video Walkthrough
-[Video link here]
+[Video link here](https://drive.google.com/drive/folders/12nZ_rGyCO_HT_P0H3gNtmX6S7JDPwcGQ?usp=sharing)
