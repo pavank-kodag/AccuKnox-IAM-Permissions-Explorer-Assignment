@@ -1,5 +1,5 @@
 # Problem Statement and User Persona
----
+
 ## Problem Statement
  
 In most small to mid-size teams, the person handling cloud access isn't an IAM specialist. They're usually a tech lead or someone senior who does it along with their actual job. When a developer asks for access to some service, the admin can either spend 20-30 minutes going through IAM docs to find the exact right policies, or just give broad access in 30 seconds. In practice, speed always wins.
@@ -7,7 +7,7 @@ In most small to mid-size teams, the person handling cloud access isn't an IAM s
 This leads to most users having way more permissions than they actually need. Over time this builds up into unnecessary security risk, compliance gaps, and sometimes random billing spikes that nobody connects back to IAM until something actually breaks.
  
 The real problem isn't that people don't care about security. It's that doing things the right way takes too long compared to just giving full access to someone you trust.
----
+
 ## User Persona
  
 Rahul, Tech Lead at a 30-person SaaS startup
