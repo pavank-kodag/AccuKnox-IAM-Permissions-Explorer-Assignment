@@ -19,4 +19,4 @@ See [Problem Statement and User Persona](problem-statement.md)
 See [Feature Writeup](feature-writeup.md)
 
 ## Video Walkthrough
-[Video link here](https://drive.google.com/drive/folders/12nZ_rGyCO_HT_P0H3gNtmX6S7JDPwcGQ?usp=sharing)
+[Video link here](https://drive.google.com/file/d/1xmYaJHSoSUj94FAvwCXgOfGTTME_gpj7/view?usp=sharing)
