@@ -1,4 +1,4 @@
-# IAM Permissions Explorer - AccuKnox PM Assignment
+# IAM Permissions Explorer
 
 ## Problem Statement and User Persona
 See [Problem Statement and User Persona](problem-statement.md)
